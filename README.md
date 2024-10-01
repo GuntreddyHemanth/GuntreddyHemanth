@@ -2,7 +2,7 @@
 
 I am a full stack developer with expertise in React, NodeJS, NextJS, MongoDB, Postgres,JavaScript, etc. I have completed 8 months of TeachingAssisstant followed by 1.2 years of part-time experience in a product-based company.
 
-[![Follow @yourGitHub](https://img.shields.io/github/followers/yourGitHub?label=Follow)](https://github.com/yourGitHub)
+[![Follow @GuntreddyHemanth](https://img.shields.io/github/followers/GuntreddyHemanth?label=Follow)](https://github.com/GuntreddyHemanth)
 
 ## 📂 All of my projects are available at [portfolio.atulmorchhlay.com](http://portfolio.atulmorchhlay.com)
 
