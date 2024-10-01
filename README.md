@@ -7,7 +7,7 @@ I am a full stack developer with expertise in React, NodeJS, NextJS, MongoDB, Po
 ## 📂 All of my projects are available at [portfolio.atulmorchhlay.com](http://portfolio.atulmorchhlay.com)
 
 ### Ask me about:
-- React, NodeJS, NextJS, GoLang, Flutter, SQL, NoSQL, Azure, AWS, Kubernetes, Docker
+- React, NodeJS, NextJS, SQL, NoSQL, Docker
 
 📫 How to reach me: guntreddyhemanth@gmail.com
 
